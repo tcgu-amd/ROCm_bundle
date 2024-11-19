@@ -2,7 +2,7 @@
 This repo bundles all 76 main ROCm repositories in one place.
 
 ## Quick Start
-To download all repos as submodules, run
+To download all repos, run
 ```
 chmod +x ./clone.sh && ./clone.sh
 ```
