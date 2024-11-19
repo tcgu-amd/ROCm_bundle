@@ -1,5 +1,5 @@
 # ROCm_bundle
-This repo bundles all 76 main ROCm repositories in one place.
+This repo bundles all 75 main ROCm repositories in one place.
 
 ## Quick Start
 To download all repos, run

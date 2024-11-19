@@ -59,8 +59,8 @@ rocMLIR
 ROCmValidationSuite
 rocPRIM
 rocprofiler
-omniperf
-omnitrace
+rocprofiler-systems
+rocprofiler-compute
 rocPyDecode
 rocr_debug_agent
 rocRAND
@@ -69,7 +69,6 @@ rocSOLVER
 rocSPARSE
 rocThrust
 roctracer
-ROCT-Thunk-Interface
 rocWMMA
 rpp
 Tensile
